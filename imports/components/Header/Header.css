@@ -1,0 +1,18 @@
+header {
+  height: auto;
+  width: auto;
+  padding: 1em 1em 1em 1em;
+  margin-bottom: .5em;
+  color: #222;
+}
+
+header h1 {
+  color: #222;
+  font-size: 4em;
+  font-family: 'Permanent Marker', cursive;
+}
+
+header h3 {
+  color: #222;
+  opacity: 0.7;
+}
